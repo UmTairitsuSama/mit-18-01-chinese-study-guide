@@ -10,7 +10,7 @@ GitHub 账号：[UmTairitsuSama](https://github.com/UmTairitsuSama)
 - **[阅读在线](https://umtairitsusama.github.io/mit-18-01-chinese-study-guide/)**：打开主页，点击“阅读在线”进入正文。
 - **[离线 PDF](https://umtairitsusama.github.io/mit-18-01-chinese-study-guide/MIT18.01_%E4%B8%AD%E6%96%87%E8%87%AA%E5%AD%A6%E5%AD%A6%E6%A1%88.pdf)**：主页上的“下载离线 PDF”按钮可直接下载。直接打开此链接时，浏览器也可能先显示 PDF 预览，可使用预览器的下载按钮保存。
 
-无需注册或登录即可访问。HTML 首页与 PDF 第一页均含作者署名。PDF 共 897 页，含署名封面；正文与公式排版已于 2026-11-09 更新。
+无需注册或登录即可访问。HTML 首页与 PDF 第一页均含作者署名。PDF 共 374 页，含署名封面；正文与公式排版已于 2026-11-09 更新。
 
 ## 如何使用
 
