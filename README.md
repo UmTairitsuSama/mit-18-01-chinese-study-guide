@@ -10,7 +10,7 @@ GitHub 账号：[UmTairitsuSama](https://github.com/UmTairitsuSama)
 - **[阅读在线](https://umtairitsusama.github.io/mit-18-01-chinese-study-guide/)**：打开主页，点击“阅读在线”进入正文。
 - **[离线 PDF](https://umtairitsusama.github.io/mit-18-01-chinese-study-guide/MIT18.01_%E4%B8%AD%E6%96%87%E8%87%AA%E5%AD%A6%E5%AD%A6%E6%A1%88.pdf)**：主页上的“下载离线 PDF”按钮可直接下载。直接打开此链接时，浏览器也可能先显示 PDF 预览，可使用预览器的下载按钮保存。
 
-无需注册或登录即可访问。HTML 首页与 PDF 第一页均含作者署名。PDF 共 374 页，含署名封面；正文与公式排版已于 2026-11-09 更新。
+无需注册或登录即可访问。HTML 首页与 PDF 第一页均含作者署名。PDF 共 377 页：封面、版权与使用许可、两页可点击目录及正文。
 
 ## 如何使用
 
@@ -56,3 +56,5 @@ PDF 下载后可直接离线阅读。若希望离线使用网页的交互功能�
 资源说明：所用 `endoftermf06.pdf` 是课程末尾说明，并非正式期末试卷；期末模拟以官方 Practice Final 为蓝本。Problem Set Part II 未提供官方解答，不应将学案解答误认为 MIT 官方解答。
 
 当前版本已进行整理与自学检查，但不代表全书逐题数学终审通过。阅读时如发现公式、解答或显示问题，可在本仓库 [Issues](https://github.com/UmTairitsuSama/mit-18-01-chinese-study-guide/issues) 中说明章号、题号及具体问题。
+
+首页页尾的“版权与使用许可”可查看完整说明。允许按 CC BY-NC-SA 4.0 非商业分享及修改，须署名、标明修改并相同方式共享；不得商业化、冒用署名或暗示 MIT 背书。
