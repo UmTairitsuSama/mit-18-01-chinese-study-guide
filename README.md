@@ -10,7 +10,7 @@ GitHub 账号：[UmTairitsuSama](https://github.com/UmTairitsuSama)
 - **[阅读在线](https://umtairitsusama.github.io/mit-18-01-chinese-study-guide/)**：打开主页，点击“阅读在线”进入正文。
 - **[离线 PDF](https://umtairitsusama.github.io/mit-18-01-chinese-study-guide/MIT18.01_%E4%B8%AD%E6%96%87%E8%87%AA%E5%AD%A6%E5%AD%A6%E6%A1%88.pdf)**：主页上的“下载离线 PDF”按钮可直接下载。直接打开此链接时，浏览器也可能先显示 PDF 预览，可使用预览器的下载按钮保存。
 
-无需注册或登录即可访问。HTML 首页与 PDF 第一页均含作者署名。PDF 共 380 页，其中新增封面占 1 页，原有 379 页正文保持不变。
+无需注册或登录即可访问。HTML 首页与 PDF 第一页均含作者署名。PDF 共 897 页，含署名封面；正文与公式排版已于 2026-11-09 更新。
 
 ## 如何使用
 
@@ -42,7 +42,7 @@ PDF 下载后可直接离线阅读。若希望离线使用网页的交互功能�
 | `.nojekyll` | GitHub Pages 静态发布标记 |
 | `README.md` | 阅读、下载与文件使用说明 |
 
-本仓库用于发布成品，不包含章节 Markdown、插图生成脚本和教材构建工具。新增发布主页与 PDF 封面时，已校验 HTML 原内容完整保留，PDF 原有页面内容流逐页一致。
+本仓库用于发布成品，不包含章节 Markdown、插图生成脚本和教材构建工具。2026-11-09 更新：开头两节合并为“概述”，公式独立成行，分式使用上下结构，网页与 PDF 同步更新。
 
 ## 课程来源与使用说明
 
